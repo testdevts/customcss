@@ -1,0 +1,18 @@
+/* Sets the style for the main navbar. */
+.bk-primary-nav-menu {
+  color: yellow !important;
+  background-color: darkgreen !important;
+}
+
+/* Example from the doc. Sets the color of buttons, such as the "Go" button.*/
+.button-module__primary { 
+  background-color: #333 !important; 
+}
+
+.button-module__buttonWithText { 
+  border-radius: 0 !important; 
+}
+
+.rd-button-with-text { 
+  border-radius: 0 !important; 
+}
