@@ -17,8 +17,7 @@
   background-color: red; !important;
 }
 
-/*
-/* Set button radius */
+/* Set button radius
 .button-module__buttonWithText { 
   border-radius: .05rem !important; 
 }
