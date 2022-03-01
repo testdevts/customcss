@@ -11,17 +11,13 @@
    text-transform: uppercase;
 }
 
+/* Viz chart background */
+.bk-pinboard-data-viz .bk-pinboard-viz-content {
+    background-color: grey; !important;
+}
+
 /* Sets the style for the main navbar. */
 .bk-primary-nav-menu {
   color: yellow !important;
   background-color: red; !important;
-}
-
-/* Set button radius */
-.button-module__buttonWithText { 
-  border-radius: 1 rem !important; 
-}
-
-.rd-button-with-text { 
-  border-radius: 1 rem !important;  
 }
