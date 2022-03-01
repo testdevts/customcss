@@ -1,6 +1,6 @@
 /* Radius of the buttons */
 .rd-button-size-m.rd-button-with-icon.rd-button-with-text{
-    border-radius: .5rem; 
+    border-radius: .5rem !important; 
     border: 2px solid green;
 }
 
@@ -19,9 +19,9 @@
 
 /* Set button radius */
 .button-module__buttonWithText { 
-  border-radius: 1 rem; 
+  border-radius: 1 rem !important; 
 }
 
 .rd-button-with-text { 
-  border-radius: 1 rem; 
+  border-radius: 1 rem !important;  
 }
