@@ -1,7 +1,7 @@
 /* Radius of the buttons */
 .rd-button-size-m.rd-button-with-icon.rd-button-with-text{
     border-radius: .05rem;
-    border: 2px solid black;
+    border: 2px solid green;
 }
 
 /* Viz Header Text */
