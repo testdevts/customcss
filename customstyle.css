@@ -12,7 +12,7 @@
 
 /* Viz Header Text */
 .bk-title-description .bk-title-section .bk-title {
-   font-color: darkblue;
+   font-color: blue;
    font-family: monospace;
    text-transform: uppercase;
 }
@@ -25,5 +25,5 @@
 /* Sets the style for the main navbar. */
 .bk-primary-nav-menu {
   color: yellow !important;
-  background-color: darkred; !important;
+  background-color: red; !important;
 }
