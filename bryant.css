@@ -14,6 +14,7 @@
 .bk-title-description .bk-title-section .bk-title {
    font-color: darkblue;
    font-family: monospace;
+   text-transform: uppercase;
 }
 
 /* Example from the doc. Sets the color of buttons, such as the "Go" button.*/
