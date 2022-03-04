@@ -15,9 +15,10 @@
   font-family: monospace;
 }
 
-/* Radius of the buttons */
+/* Radius of the buttons 
 .rd-button-size-m.rd-button-with-icon.rd-button-with-text{
     border-radius: .05rem;
     border: 2px solid black;
     background-color: yellow;
+*/
 }
