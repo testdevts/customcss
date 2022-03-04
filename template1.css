@@ -1,13 +1,14 @@
-/* Background of viz area */
+/* Background of viz area
 .bk-pinboard-data-viz {
     background-color: #00FFFF;
 }
-
-/* Viz Header Text */
+ */
+/* Viz Header Text
 .bk-title-description .bk-title-section .bk-title {
     font-family: serif;
     text-transform: uppercase;
 }
+*/
 
 /* Button backround and text
 .rd-button-background-light.rd-button-secondary.rd-button-size-m, .rd-button-background-light.rd-button-secondary.rd-button-size-s, .rd-button-background-light.rd-button-secondary.rd-button-size-xs:not(.rd-button-with-text) {
