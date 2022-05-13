@@ -21,3 +21,8 @@
   color: yellow !important;
   background-color: red; !important;
 }
+
+/* Sets the style for the search bar. */
+.sage-search-box-module__bkSageTextContent
+  color: yellow !important;
+  background-color: red; !important;
