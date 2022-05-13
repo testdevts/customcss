@@ -25,7 +25,6 @@
 /* Sets the style for the entire search bar. */
 .sage-search-bar-module__sageSearchBar {
     color:orange;
-    background-color: blue;
 }
 
 /* Sets the style for the text entry form in the search bar */
