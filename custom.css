@@ -24,12 +24,11 @@
 
 /* Sets the style for the entire search bar. */
 .sage-search-bar-module__sageSearchBar {
-    color:orange;
+    font-family:monospace;
 }
 
 /* Sets the style for the text entry form in the search bar */
 .sage-search-box-module__bkSageTextContent {
-    color:blue
-    font-family:monospace;
+    color:orange;
     text-transform: uppercase;
 }
