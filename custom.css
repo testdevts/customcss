@@ -19,7 +19,7 @@
 /* Sets the style for the main navbar. */
 .bk-primary-nav-menu {
   color: yellow !important;
-  background-color: red; !important;
+ // background-color: red; !important;
 }
 
 /* Sets the style for the search bar. */
