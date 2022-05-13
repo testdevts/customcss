@@ -29,6 +29,7 @@
 
 /* Sets the style for the text entry form in the search bar */
 .sage-search-box-module__bkSageTextContent {
+    color:blue
     font-family:monospace;
     text-transform: uppercase;
 }
